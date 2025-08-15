@@ -128,3 +128,12 @@ These recordings include:
 - **Full Documentation:** FRS, Test Plan, Test Cases, Execution Reports, Bug Evidence
 
 ---
+### 🚀 How to Use This Project
+1. Download `opencart-4.1.0.3.zip` and deploy it locally via XAMPP.
+2. Refer to **BUILDDEPLOY MANUAL.pdf** for setup instructions.
+3. Use the **FRS** and **Test Plan** to understand scope and requirements.
+4. Check **Test Scenarios & Test Cases** for designed tests.
+5. Review **Test Results** and **Bug Screenshots** for execution evidence.
+6. Watch **Google Drive recordings** to see Jira execution in action.
+
+---
