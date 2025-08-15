@@ -17,26 +17,24 @@ This project shows my ability to handle **real-world QA responsibilities** from 
 
 ---
 
+## 📂 Repository Structure
 
-## 🗂 Repository Structure
-
-```plaintext
 OpencartManualTestProj/
 │
 ├── FRS AND TEST PLAN AND DEPLOYMENT/
 │   ├── BUILDDEPLOY MANUAL.pdf              # Local deployment guide
 │   ├── OpenCart -FRS.pdf                   # Functional Requirement Specification
-│   ├── OpenCart -Test Plan.pdf              # Test planning document
+│   ├── OpenCart -Test Plan.pdf             # Test planning document
 │
 ├── TEST SCENARIO AND TESTCASES/
-│   ├── TestScenario&casesOpencart.xlsx      # All designed test cases & scenarios
+│   ├── TestScenario&casesOpencart.xlsx     # All designed test cases & scenarios
 │
 ├── TEST RESULT/
-│   ├── Bug Screenshots/                     # Screenshots for each failed test case
+│   ├── Bug Screenshots/                    # Screenshots for each failed test case
 │   ├── TestScenario&casesOpencart-results 1.xlsx  # Execution result sheet
 │
 ├── jiraTest/
-│   ├── jira reports/                        # Zephyr reports exported from Jira
+│   ├── jira reports/                       # Zephyr reports exported from Jira
 │       ├── Zephyr - Jira detailed report.pdf
 │       ├── Zephyr - Jira summary list.pdf
 │       ├── Zephyr - Jira scorecard execution tester.pdf
@@ -44,14 +42,5 @@ OpencartManualTestProj/
 │       ├── Zephyr - Jira-Tracability testcase.pdf
 │       ├── Zephyr - Jira-executionscorecard.pdf
 │
-├── opencart-4.1.0.3.zip                      # Application package for local setup
-└── README.md                                 # Project documentation (this file)
-```plaintext
-> Note: Large Jira activity recordings are stored separately in Google Drive to keep the repository size manageable.
----
-
-```plaintext
-
-## 🛠 Tools & Technologies Used
-
-
+├── opencart-4.1.0.3.zip                    # Application package for local setup
+└── README.md                               # Project documentation (this file)
