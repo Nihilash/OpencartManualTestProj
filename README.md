@@ -49,6 +49,9 @@ OpencartManualTestProj/
 ```plaintext
 > Note: Large Jira activity recordings are stored separately in Google Drive to keep the repository size manageable.
 ---
+
+```plaintext
+
 ## 🛠 Tools & Technologies Used
 
 
